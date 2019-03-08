@@ -22,3 +22,12 @@ do
         echo "$IP add faile" 
     fi
 done
+
+
+#ip.txt
+172.16.16.57:pwd
+172.16.16.59:pwd
+172.16.16.58:pwd
+#
+#
+#
